@@ -61,8 +61,15 @@ Vou deixar um video explicando.
 
 https://www.youtube.com/watch?v=RcsuneSMQXU&feature=youtu.be
 
+------------------------------------------------------------------------
 
+Caso nao queira instalar na sua maquina..
 
+https://q2teste.hubbysport.com.br/ 
+
+Esse Link eu deixei online para teste.
+
+--------------------------------------------------------------------
 
 
 
