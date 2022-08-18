@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: 18-Ago-2022 às 01:37
+-- Generation Time: 18-Ago-2022 às 03:33
 -- Versão do servidor: 10.1.36-MariaDB
 -- versão do PHP: 5.6.38
 
@@ -18,9 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Database: `q2pay`
---
+
 
 -- --------------------------------------------------------
 
@@ -46,7 +44,7 @@ CREATE TABLE `extrato` (
 
 CREATE TABLE `payload` (
   `id` int(11) NOT NULL,
-  `codigo` int(50) NOT NULL,
+  `codigo` varchar(50) NOT NULL,
   `valor_enviado` decimal(10,2) NOT NULL,
   `data` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
