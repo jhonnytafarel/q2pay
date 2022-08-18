@@ -43,6 +43,25 @@ Como funciona o Projeto
 
 Assista o video que postei no Youtube.
 
+https://youtu.be/Nw3mfPrHbmc
+
+---------------------------------------------------------------------
+
+PayLoad 
+
+Bom o que entendi criar um PayLoad onde vai retornar dados da transação feita.
+
+Url da api é: URL Caminho do site /payload/transacao -- 
+
+Variavel a ser preenchida no Payload é transacao..
+
+O id da transação voce vai pegar na Home, quando fizer transferencia de saldo ela será gerada.
+
+Vou deixar um video explicando.
+
+https://www.youtube.com/watch?v=RcsuneSMQXU&feature=youtu.be
+
+
 
 
 
